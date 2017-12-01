@@ -1,0 +1,21 @@
+#glow {
+	color: #fff;
+	text-shadow: 0 0 3px #fff, 0 0 5px #fff, 0 0 10px #fff, 0 0 5px #ff2d95, 0 0 10px #ff2d95, 0 0 20px #ff2d95, 0 0 30px #ff2d95, 0 0 40px #ff2d95;
+	letter-spacing: 5px;
+	font: 80px 'MisoRegular';
+}
+
+#script {
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+}
+
+.font {
+    font-family: 'Spectral SC', serif;
+}
+
+.number {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 40px;
+}
+
